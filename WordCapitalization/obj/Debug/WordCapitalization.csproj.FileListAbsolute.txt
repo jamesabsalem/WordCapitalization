@@ -1,0 +1,6 @@
+F:\Tutorial\Contest\WordCapitalization\WordCapitalization\bin\Debug\WordCapitalization.exe.config
+F:\Tutorial\Contest\WordCapitalization\WordCapitalization\bin\Debug\WordCapitalization.exe
+F:\Tutorial\Contest\WordCapitalization\WordCapitalization\bin\Debug\WordCapitalization.pdb
+F:\Tutorial\Contest\WordCapitalization\WordCapitalization\obj\Debug\WordCapitalization.csprojResolveAssemblyReference.cache
+F:\Tutorial\Contest\WordCapitalization\WordCapitalization\obj\Debug\WordCapitalization.exe
+F:\Tutorial\Contest\WordCapitalization\WordCapitalization\obj\Debug\WordCapitalization.pdb
